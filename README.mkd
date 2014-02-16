@@ -1,0 +1,10 @@
+README
+======
+
+I created this project so as to be familiar with creating GitHub Projects.  According to the [official help page](https://help.github.com/articles/create-a-repo) on [GitHub](https://github.com), you need to create a repository online first.
+
+> To put your project up on GitHub, you'll need to have a GitHub repository for it to live in.
+
+I'm still trying to be familiar with tpope's [fugitive.vim](https://github.com/tpope/vim-fugitive).
+
+The other purpose of this project is to greet the world, and I can't think of another reason to create it.
