@@ -1,0 +1,6 @@
+README
+====
+
+No need to read this file. Go to the project page instead.
+
+<!-- vim:set tw=70 wrap spell: -->
